@@ -1,0 +1,6 @@
+{
+  name="Redstone",
+  desc="Display connected Redstone inputs.",
+  author="Lord_Cuddles",
+  version="1.0"
+}
