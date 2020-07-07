@@ -1,0 +1,6 @@
+{
+  name="Reactor",
+  desc="View and Control an ExtremeReactor",
+  author="Lord_Cuddles",
+  version="1.0"
+}
